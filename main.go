@@ -320,3 +320,4 @@ func gameOver(game [Size][Size]int) bool {
 	}
 	return true
 }
+//10.21
