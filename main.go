@@ -319,4 +319,9 @@ func gameOver(game [Size][Size]int) bool {
 		}
 	}
 	return true
+<<<<<<< HEAD
 } 
+=======
+}
+//10.21
+>>>>>>> 38e2e31d25ae4661650bfe4c2881797b0b5c6bff
